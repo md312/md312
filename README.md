@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Margaux Dubieilh
-- 👀 I’m interested in 
+- 👀 I’m interested in new technologies, gaming, horse riding and writing
 - 🌱 I’m currently learning Angular and PHP 
-- 💞️ I’m looking to collaborate on websites projects and API developpement.
-- 📫 How to reach me : you can send me a message on my LikedInd : Margaux Dubieilh.
+- 💞️ I’m looking to collaborate on websites projects and API developpement
+- 📫 How to reach me : you can send me a message on my LikedInd : Margaux Dubieilh
 
 <!---
 md312/md312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
